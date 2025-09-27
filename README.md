@@ -1,6 +1,7 @@
 # Trabalho Acadêmico
 
-## Objetivo
+## Objetivo  
+  - Modelar uma banco de dados, utilizando diagramas de "caso de uso" e "entidade e relacionamento".
   - Criar um banco de dados.
   - Criar duas tabelas que possuam vinculo entre si (Exemplo: Pedidos e itens). 
   - Cada tabela deve possuir no mínimo três colunas (Fora colunas de ID e Timestamp).
